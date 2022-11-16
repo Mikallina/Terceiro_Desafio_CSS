@@ -1,22 +1,53 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Desafio 03: Criando sua primeira Landing Page com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+# Desafio de Projeto
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+![GitHub forks](https://img.shields.io/github/forks/Mikallina/Dio_NTTData?style=social)
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+---
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Criando sua Primeira Landing Page com HTML e CSS
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+---
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+### Sobre o projeto
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+
+- Formulários
+- Estruturação e formatação de texto
+- Mídias
+- Tabelas
+  Foram também utilizadas técnicas de estilização com CSS.
+
+## Instruções
+
+Você deve criar um site de uma clínica médica
+A especialidade escolhida foi uma clínica Veterinária.
+
+- Este site deve conter o seguinte menu de navegação:
+
+* Página Principal
+* Sobre a clínica
+* Horário de Atendimento
+* Contato
+  Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+
+## Métodos
+
+- HTML
+- CSS
+
+## Instalação
+
+- Instale o Visual Studio Code
+- Abra os exemplos em HTML em seu navegador
+- Teste os exemplos no Console do Navegador `CTRL+SHIFT+C`
+
+## Licença
+
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
+## Créditos
+
+[Michelle Borges](https://github.com/Mikallina)
