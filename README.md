@@ -14,24 +14,12 @@
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 
-- Formulários
 - Estruturação e formatação de texto
 - Mídias
-- Tabelas
-  Foram também utilizadas técnicas de estilização com CSS.
 
 ## Instruções
 
-Você deve criar um site de uma clínica médica
-A especialidade escolhida foi uma clínica Veterinária.
-
-- Este site deve conter o seguinte menu de navegação:
-
-* Página Principal
-* Sobre a clínica
-* Horário de Atendimento
-* Contato
-  Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+Você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha
 
 ## Métodos
 
